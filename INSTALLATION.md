@@ -24,7 +24,7 @@ Before installing the application, ensure you have the following prerequisites i
 
 2. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Divyansh-mansh14/Recommendation_System_JTP.git>
    cd Recommendation-System-for-JTP
    ```
 
